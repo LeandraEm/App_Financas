@@ -381,7 +381,7 @@ Interações com o Loveble:
 
 Resultado final no Loveble: https://everyday-expense-oracle.lovable.app/
 
-### Funcionalidades
+## Funcionalidades
 
 - Registro de despesas e receitas por meio de conversas.
 - Classificação automática das movimentações em categorias financeiras.
